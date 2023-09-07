@@ -216,3 +216,8 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
+
+//CwCDlwAr0Dedx5jR   database
+//.env file
+//MONGODB_URI=mongodb://127.0.0.1:27017/testabc
+//JWT_SECRET=S7jR2K#Lm3xN$5tP!zV@QpWnZr4tYw7z
